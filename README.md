@@ -5,6 +5,7 @@
 This application features the ability to view the model meshes stored in .obj files.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703714-5b188f00-2d93-11ea-89c0-e4ffecca993b.png)
 
 ## Application Compiling
 
